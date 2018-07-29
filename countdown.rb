@@ -2,6 +2,6 @@
 
 def countdown counter
   while counter > 0
-  puts ""
+  # puts ""
   counter -= 1 
 end
