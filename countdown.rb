@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown counter
-  while counter > 0
-  puts ""
-  counter -= 1 
+def countdown number
+  while number > 0
+  puts "#{number}"
+  number -= 1 
 end
